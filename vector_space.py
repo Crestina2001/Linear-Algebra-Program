@@ -1,4 +1,3 @@
-# trial2
 class VectorSpace:
     def __init__(self, basis):
         self.basis = basis  # List of basis vectors
